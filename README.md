@@ -13,8 +13,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live site at Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-AkpTAkPz4M)
+- Live Site URL: [Live site at Netlify](https://auriga-nft-preview-card-comp.netlify.app/)
 
 ## My process
 
