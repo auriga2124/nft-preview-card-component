@@ -46,8 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [www.w3schools.com](https://www.w3schools.com/howto/howto_css_image_overlay_icon.asp) - This helped me how to create an overlay image. 
 
 ## Author
 
