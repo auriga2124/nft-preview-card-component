@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
+- Live Site URL: [Live site at Netlify](https://your-live-site-url.com)
 
 ## My process
 
@@ -50,6 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Frontend Mentor - [@auriga2124](https://www.frontendmentor.io/profile/auriga2124)
+- Twitter - [@ErkaRahman](https://twitter.com/ErkaRahman)
